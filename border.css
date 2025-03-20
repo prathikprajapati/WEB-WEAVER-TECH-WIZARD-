@@ -1,0 +1,4 @@
+.tabs-apartment > li > a.active {
+    color: #ffffff;
+    background: #c29f7b;
+  }
